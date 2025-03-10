@@ -1,0 +1,8 @@
+config
+kallsyms.txt
+
+*Module.symvers*
+
+*.mod*
+*.ko*
+*.o*
